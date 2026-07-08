@@ -166,8 +166,8 @@ to point to your local `clean_data/` folder. Click **Close & Apply**.
 
 | Dataset | Publisher | Period | URL |
 |---|---|---|---|
-| Quarterly Labour Force Survey Trends | Statistics South Africa | 2008 Q1 – 2026 Q1 | [statssa.gov.za](https://www.statssa.gov.za) |
-| Gross Domestic Product by Region | Statistics South Africa | 2013–2024 | [statssa.gov.za](https://www.statssa.gov.za) |
+| Quarterly Labour Force Survey Trends | Statistics South Africa | 2008 Q1 – 2026 Q1 | [statssa.gov.za](https://www.statssa.gov.za/?page_id=1854&PPN=P0211&SCH=74511) |
+| Gross Domestic Product by Region | Statistics South Africa | 2013–2024 | [statssa.gov.za](https://www.statssa.gov.za/timeseriesdata/Excel/P0441.2%20%20Provincial%20Gross%20Domestic%20Product(2024).zip) |
 | SA Province Boundaries | simplemaps.com | Current | Included in repo |
 
 ---
