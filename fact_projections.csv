@@ -1,0 +1,217 @@
+province,date,year,quarter,quarter_label,projected_rate,projected_rate_upper,projected_rate_lower,is_projection,scenario
+Western Cape,2026-04-01,2026,2,Q2 2026,21.59,26.51,16.68,True,Baseline
+Western Cape,2026-04-01,2026,2,Q2 2026,21.59,25.03,18.15,True,Optimistic
+Western Cape,2026-04-01,2026,2,Q2 2026,21.6,27.98,15.21,True,Pessimistic
+Western Cape,2026-07-01,2026,3,Q3 2026,21.6,26.53,16.67,True,Baseline
+Western Cape,2026-07-01,2026,3,Q3 2026,21.6,25.05,18.15,True,Optimistic
+Western Cape,2026-07-01,2026,3,Q3 2026,21.61,28.01,15.2,True,Pessimistic
+Western Cape,2026-10-01,2026,4,Q4 2026,21.61,26.55,16.67,True,Baseline
+Western Cape,2026-10-01,2026,4,Q4 2026,21.6,25.06,18.14,True,Optimistic
+Western Cape,2026-10-01,2026,4,Q4 2026,21.62,28.04,15.19,True,Pessimistic
+Western Cape,2027-01-01,2027,1,Q1 2027,21.62,26.57,16.66,True,Baseline
+Western Cape,2027-01-01,2027,1,Q1 2027,21.61,25.08,18.14,True,Optimistic
+Western Cape,2027-01-01,2027,1,Q1 2027,21.63,28.07,15.18,True,Pessimistic
+Western Cape,2027-04-01,2027,2,Q2 2027,21.63,26.6,16.65,True,Baseline
+Western Cape,2027-04-01,2027,2,Q2 2027,21.62,25.1,18.14,True,Optimistic
+Western Cape,2027-04-01,2027,2,Q2 2027,21.64,28.1,15.17,True,Pessimistic
+Western Cape,2027-07-01,2027,3,Q3 2027,21.63,26.62,16.65,True,Baseline
+Western Cape,2027-07-01,2027,3,Q3 2027,21.62,25.12,18.13,True,Optimistic
+Western Cape,2027-07-01,2027,3,Q3 2027,21.65,28.13,15.16,True,Pessimistic
+Western Cape,2027-10-01,2027,4,Q4 2027,21.64,26.65,16.64,True,Baseline
+Western Cape,2027-10-01,2027,4,Q4 2027,21.63,25.13,18.13,True,Optimistic
+Western Cape,2027-10-01,2027,4,Q4 2027,21.66,28.17,15.15,True,Pessimistic
+Western Cape,2028-01-01,2028,1,Q1 2028,21.65,26.67,16.63,True,Baseline
+Western Cape,2028-01-01,2028,1,Q1 2028,21.64,25.15,18.12,True,Optimistic
+Western Cape,2028-01-01,2028,1,Q1 2028,21.67,28.2,15.14,True,Pessimistic
+Eastern Cape,2026-04-01,2026,2,Q2 2026,45.39,53.62,37.17,True,Baseline
+Eastern Cape,2026-04-01,2026,2,Q2 2026,45.33,51.09,39.57,True,Optimistic
+Eastern Cape,2026-04-01,2026,2,Q2 2026,45.49,56.19,34.79,True,Pessimistic
+Eastern Cape,2026-07-01,2026,3,Q3 2026,45.72,53.97,37.47,True,Baseline
+Eastern Cape,2026-07-01,2026,3,Q3 2026,45.59,51.36,39.81,True,Optimistic
+Eastern Cape,2026-07-01,2026,3,Q3 2026,45.91,56.64,35.18,True,Pessimistic
+Eastern Cape,2026-10-01,2026,4,Q4 2026,46.04,54.32,37.77,True,Baseline
+Eastern Cape,2026-10-01,2026,4,Q4 2026,45.85,51.64,40.05,True,Optimistic
+Eastern Cape,2026-10-01,2026,4,Q4 2026,46.33,57.09,35.57,True,Pessimistic
+Eastern Cape,2027-01-01,2027,1,Q1 2027,46.36,54.66,38.06,True,Baseline
+Eastern Cape,2027-01-01,2027,1,Q1 2027,46.1,51.92,40.29,True,Optimistic
+Eastern Cape,2027-01-01,2027,1,Q1 2027,46.75,57.54,35.96,True,Pessimistic
+Eastern Cape,2027-04-01,2027,2,Q2 2027,46.69,55.01,38.36,True,Baseline
+Eastern Cape,2027-04-01,2027,2,Q2 2027,46.36,52.19,40.54,True,Optimistic
+Eastern Cape,2027-04-01,2027,2,Q2 2027,47.17,58.0,36.35,True,Pessimistic
+Eastern Cape,2027-07-01,2027,3,Q3 2027,47.01,55.36,38.66,True,Baseline
+Eastern Cape,2027-07-01,2027,3,Q3 2027,46.62,52.47,40.77,True,Optimistic
+Eastern Cape,2027-07-01,2027,3,Q3 2027,47.59,58.45,36.73,True,Pessimistic
+Eastern Cape,2027-10-01,2027,4,Q4 2027,47.33,55.71,38.95,True,Baseline
+Eastern Cape,2027-10-01,2027,4,Q4 2027,46.88,52.75,41.01,True,Optimistic
+Eastern Cape,2027-10-01,2027,4,Q4 2027,48.01,58.91,37.12,True,Pessimistic
+Eastern Cape,2028-01-01,2028,1,Q1 2028,47.66,56.07,39.25,True,Baseline
+Eastern Cape,2028-01-01,2028,1,Q1 2028,47.14,53.03,41.25,True,Optimistic
+Eastern Cape,2028-01-01,2028,1,Q1 2028,48.43,59.36,37.5,True,Pessimistic
+Northern Cape,2026-04-01,2026,2,Q2 2026,26.93,33.04,20.82,True,Baseline
+Northern Cape,2026-04-01,2026,2,Q2 2026,26.92,31.2,22.64,True,Optimistic
+Northern Cape,2026-04-01,2026,2,Q2 2026,26.95,34.89,19.0,True,Pessimistic
+Northern Cape,2026-07-01,2026,3,Q3 2026,26.88,33.01,20.75,True,Baseline
+Northern Cape,2026-07-01,2026,3,Q3 2026,26.86,31.15,22.57,True,Optimistic
+Northern Cape,2026-07-01,2026,3,Q3 2026,26.91,34.88,18.94,True,Pessimistic
+Northern Cape,2026-10-01,2026,4,Q4 2026,26.83,32.98,20.68,True,Baseline
+Northern Cape,2026-10-01,2026,4,Q4 2026,26.8,31.11,22.5,True,Optimistic
+Northern Cape,2026-10-01,2026,4,Q4 2026,26.88,34.87,18.88,True,Pessimistic
+Northern Cape,2027-01-01,2027,1,Q1 2027,26.78,32.95,20.62,True,Baseline
+Northern Cape,2027-01-01,2027,1,Q1 2027,26.74,31.06,22.43,True,Optimistic
+Northern Cape,2027-01-01,2027,1,Q1 2027,26.84,34.86,18.83,True,Pessimistic
+Northern Cape,2027-04-01,2027,2,Q2 2027,26.73,32.92,20.55,True,Baseline
+Northern Cape,2027-04-01,2027,2,Q2 2027,26.69,31.02,22.35,True,Optimistic
+Northern Cape,2027-04-01,2027,2,Q2 2027,26.81,34.85,18.77,True,Pessimistic
+Northern Cape,2027-07-01,2027,3,Q3 2027,26.69,32.89,20.48,True,Baseline
+Northern Cape,2027-07-01,2027,3,Q3 2027,26.63,30.97,22.28,True,Optimistic
+Northern Cape,2027-07-01,2027,3,Q3 2027,26.77,34.84,18.71,True,Pessimistic
+Northern Cape,2027-10-01,2027,4,Q4 2027,26.64,32.86,20.41,True,Baseline
+Northern Cape,2027-10-01,2027,4,Q4 2027,26.57,30.93,22.21,True,Optimistic
+Northern Cape,2027-10-01,2027,4,Q4 2027,26.74,34.83,18.64,True,Pessimistic
+Northern Cape,2028-01-01,2028,1,Q1 2028,26.59,32.84,20.34,True,Baseline
+Northern Cape,2028-01-01,2028,1,Q1 2028,26.51,30.88,22.13,True,Optimistic
+Northern Cape,2028-01-01,2028,1,Q1 2028,26.7,34.83,18.58,True,Pessimistic
+Free State,2026-04-01,2026,2,Q2 2026,37.71,42.34,33.08,True,Baseline
+Free State,2026-04-01,2026,2,Q2 2026,37.68,40.92,34.44,True,Optimistic
+Free State,2026-04-01,2026,2,Q2 2026,37.75,43.76,31.73,True,Pessimistic
+Free State,2026-07-01,2026,3,Q3 2026,37.84,42.48,33.2,True,Baseline
+Free State,2026-07-01,2026,3,Q3 2026,37.79,41.04,34.54,True,Optimistic
+Free State,2026-07-01,2026,3,Q3 2026,37.92,43.95,31.88,True,Pessimistic
+Free State,2026-10-01,2026,4,Q4 2026,37.97,42.62,33.31,True,Baseline
+Free State,2026-10-01,2026,4,Q4 2026,37.89,41.15,34.63,True,Optimistic
+Free State,2026-10-01,2026,4,Q4 2026,38.08,44.13,32.03,True,Pessimistic
+Free State,2027-01-01,2027,1,Q1 2027,38.1,42.77,33.43,True,Baseline
+Free State,2027-01-01,2027,1,Q1 2027,37.99,41.26,34.72,True,Optimistic
+Free State,2027-01-01,2027,1,Q1 2027,38.25,44.32,32.18,True,Pessimistic
+Free State,2027-04-01,2027,2,Q2 2027,38.23,42.91,33.54,True,Baseline
+Free State,2027-04-01,2027,2,Q2 2027,38.1,41.37,34.82,True,Optimistic
+Free State,2027-04-01,2027,2,Q2 2027,38.42,44.51,32.33,True,Pessimistic
+Free State,2027-07-01,2027,3,Q3 2027,38.35,43.05,33.66,True,Baseline
+Free State,2027-07-01,2027,3,Q3 2027,38.2,41.49,34.91,True,Optimistic
+Free State,2027-07-01,2027,3,Q3 2027,38.59,44.7,32.48,True,Pessimistic
+Free State,2027-10-01,2027,4,Q4 2027,38.48,43.2,33.77,True,Baseline
+Free State,2027-10-01,2027,4,Q4 2027,38.3,41.6,35.0,True,Optimistic
+Free State,2027-10-01,2027,4,Q4 2027,38.75,44.88,32.63,True,Pessimistic
+Free State,2028-01-01,2028,1,Q1 2028,38.61,43.34,33.88,True,Baseline
+Free State,2028-01-01,2028,1,Q1 2028,38.41,41.72,35.09,True,Optimistic
+Free State,2028-01-01,2028,1,Q1 2028,38.92,45.07,32.77,True,Pessimistic
+KwaZulu-Natal,2026-04-01,2026,2,Q2 2026,33.53,38.19,28.88,True,Baseline
+KwaZulu-Natal,2026-04-01,2026,2,Q2 2026,33.48,36.74,30.22,True,Optimistic
+KwaZulu-Natal,2026-04-01,2026,2,Q2 2026,33.61,39.66,27.57,True,Pessimistic
+KwaZulu-Natal,2026-07-01,2026,3,Q3 2026,33.8,38.47,29.14,True,Baseline
+KwaZulu-Natal,2026-07-01,2026,3,Q3 2026,33.69,36.96,30.43,True,Optimistic
+KwaZulu-Natal,2026-07-01,2026,3,Q3 2026,33.97,40.03,27.9,True,Pessimistic
+KwaZulu-Natal,2026-10-01,2026,4,Q4 2026,34.07,38.75,29.39,True,Baseline
+KwaZulu-Natal,2026-10-01,2026,4,Q4 2026,33.91,37.19,30.64,True,Optimistic
+KwaZulu-Natal,2026-10-01,2026,4,Q4 2026,34.32,40.4,28.23,True,Pessimistic
+KwaZulu-Natal,2027-01-01,2027,1,Q1 2027,34.34,39.04,29.65,True,Baseline
+KwaZulu-Natal,2027-01-01,2027,1,Q1 2027,34.13,37.41,30.84,True,Optimistic
+KwaZulu-Natal,2027-01-01,2027,1,Q1 2027,34.67,40.77,28.57,True,Pessimistic
+KwaZulu-Natal,2027-04-01,2027,2,Q2 2027,34.62,39.32,29.91,True,Baseline
+KwaZulu-Natal,2027-04-01,2027,2,Q2 2027,34.34,37.64,31.05,True,Optimistic
+KwaZulu-Natal,2027-04-01,2027,2,Q2 2027,35.02,41.14,28.9,True,Pessimistic
+KwaZulu-Natal,2027-07-01,2027,3,Q3 2027,34.89,39.61,30.16,True,Baseline
+KwaZulu-Natal,2027-07-01,2027,3,Q3 2027,34.56,37.87,31.25,True,Optimistic
+KwaZulu-Natal,2027-07-01,2027,3,Q3 2027,35.37,41.51,29.23,True,Pessimistic
+KwaZulu-Natal,2027-10-01,2027,4,Q4 2027,35.16,39.9,30.42,True,Baseline
+KwaZulu-Natal,2027-10-01,2027,4,Q4 2027,34.78,38.1,31.46,True,Optimistic
+KwaZulu-Natal,2027-10-01,2027,4,Q4 2027,35.73,41.89,29.56,True,Pessimistic
+KwaZulu-Natal,2028-01-01,2028,1,Q1 2028,35.43,40.18,30.67,True,Baseline
+KwaZulu-Natal,2028-01-01,2028,1,Q1 2028,34.99,38.32,31.67,True,Optimistic
+KwaZulu-Natal,2028-01-01,2028,1,Q1 2028,36.08,42.26,29.9,True,Pessimistic
+North West,2026-04-01,2026,2,Q2 2026,40.32,46.66,33.99,True,Baseline
+North West,2026-04-01,2026,2,Q2 2026,40.25,44.69,35.82,True,Optimistic
+North West,2026-04-01,2026,2,Q2 2026,40.43,48.67,32.2,True,Pessimistic
+North West,2026-07-01,2026,3,Q3 2026,40.69,47.04,34.33,True,Baseline
+North West,2026-07-01,2026,3,Q3 2026,40.54,44.99,36.09,True,Optimistic
+North West,2026-07-01,2026,3,Q3 2026,40.9,49.16,32.64,True,Pessimistic
+North West,2026-10-01,2026,4,Q4 2026,41.05,47.42,34.68,True,Baseline
+North West,2026-10-01,2026,4,Q4 2026,40.83,45.29,36.37,True,Optimistic
+North West,2026-10-01,2026,4,Q4 2026,41.38,49.66,33.09,True,Pessimistic
+North West,2027-01-01,2027,1,Q1 2027,41.41,47.81,35.02,True,Baseline
+North West,2027-01-01,2027,1,Q1 2027,41.12,45.6,36.65,True,Optimistic
+North West,2027-01-01,2027,1,Q1 2027,41.85,50.16,33.54,True,Pessimistic
+North West,2027-04-01,2027,2,Q2 2027,41.78,48.19,35.36,True,Baseline
+North West,2027-04-01,2027,2,Q2 2027,41.41,45.9,36.92,True,Optimistic
+North West,2027-04-01,2027,2,Q2 2027,42.32,50.66,33.99,True,Pessimistic
+North West,2027-07-01,2027,3,Q3 2027,42.14,48.57,35.71,True,Baseline
+North West,2027-07-01,2027,3,Q3 2027,41.7,46.21,37.2,True,Optimistic
+North West,2027-07-01,2027,3,Q3 2027,42.79,51.16,34.43,True,Pessimistic
+North West,2027-10-01,2027,4,Q4 2027,42.5,48.96,36.05,True,Baseline
+North West,2027-10-01,2027,4,Q4 2027,41.99,46.51,37.48,True,Optimistic
+North West,2027-10-01,2027,4,Q4 2027,43.27,51.66,34.88,True,Pessimistic
+North West,2028-01-01,2028,1,Q1 2028,42.87,49.34,36.39,True,Baseline
+North West,2028-01-01,2028,1,Q1 2028,42.29,46.82,37.75,True,Optimistic
+North West,2028-01-01,2028,1,Q1 2028,43.74,52.16,35.32,True,Pessimistic
+Gauteng,2026-04-01,2026,2,Q2 2026,35.91,39.65,32.16,True,Baseline
+Gauteng,2026-04-01,2026,2,Q2 2026,35.87,38.5,33.25,True,Optimistic
+Gauteng,2026-04-01,2026,2,Q2 2026,35.96,40.83,31.09,True,Pessimistic
+Gauteng,2026-07-01,2026,3,Q3 2026,36.08,39.84,32.33,True,Baseline
+Gauteng,2026-07-01,2026,3,Q3 2026,36.01,38.64,33.38,True,Optimistic
+Gauteng,2026-07-01,2026,3,Q3 2026,36.19,41.07,31.3,True,Pessimistic
+Gauteng,2026-10-01,2026,4,Q4 2026,36.25,40.02,32.49,True,Baseline
+Gauteng,2026-10-01,2026,4,Q4 2026,36.15,38.79,33.51,True,Optimistic
+Gauteng,2026-10-01,2026,4,Q4 2026,36.41,41.31,31.51,True,Pessimistic
+Gauteng,2027-01-01,2027,1,Q1 2027,36.43,40.21,32.65,True,Baseline
+Gauteng,2027-01-01,2027,1,Q1 2027,36.29,38.93,33.64,True,Optimistic
+Gauteng,2027-01-01,2027,1,Q1 2027,36.63,41.55,31.72,True,Pessimistic
+Gauteng,2027-04-01,2027,2,Q2 2027,36.6,40.39,32.81,True,Baseline
+Gauteng,2027-04-01,2027,2,Q2 2027,36.43,39.08,33.77,True,Optimistic
+Gauteng,2027-04-01,2027,2,Q2 2027,36.86,41.79,31.93,True,Pessimistic
+Gauteng,2027-07-01,2027,3,Q3 2027,36.77,40.58,32.97,True,Baseline
+Gauteng,2027-07-01,2027,3,Q3 2027,36.57,39.23,33.9,True,Optimistic
+Gauteng,2027-07-01,2027,3,Q3 2027,37.08,42.03,32.14,True,Pessimistic
+Gauteng,2027-10-01,2027,4,Q4 2027,36.95,40.76,33.13,True,Baseline
+Gauteng,2027-10-01,2027,4,Q4 2027,36.7,39.37,34.03,True,Optimistic
+Gauteng,2027-10-01,2027,4,Q4 2027,37.31,42.27,32.35,True,Pessimistic
+Gauteng,2028-01-01,2028,1,Q1 2028,37.12,40.95,33.29,True,Baseline
+Gauteng,2028-01-01,2028,1,Q1 2028,36.84,39.52,34.16,True,Optimistic
+Gauteng,2028-01-01,2028,1,Q1 2028,37.53,42.51,32.56,True,Pessimistic
+Mpumalanga,2026-04-01,2026,2,Q2 2026,37.38,45.36,29.4,True,Baseline
+Mpumalanga,2026-04-01,2026,2,Q2 2026,37.34,42.93,31.75,True,Optimistic
+Mpumalanga,2026-04-01,2026,2,Q2 2026,37.44,47.81,27.06,True,Pessimistic
+Mpumalanga,2026-07-01,2026,3,Q3 2026,37.57,45.58,29.57,True,Baseline
+Mpumalanga,2026-07-01,2026,3,Q3 2026,37.49,43.1,31.89,True,Optimistic
+Mpumalanga,2026-07-01,2026,3,Q3 2026,37.69,48.09,27.28,True,Pessimistic
+Mpumalanga,2026-10-01,2026,4,Q4 2026,37.76,45.79,29.74,True,Baseline
+Mpumalanga,2026-10-01,2026,4,Q4 2026,37.65,43.27,32.03,True,Optimistic
+Mpumalanga,2026-10-01,2026,4,Q4 2026,37.94,48.37,27.5,True,Pessimistic
+Mpumalanga,2027-01-01,2027,1,Q1 2027,37.96,46.01,29.9,True,Baseline
+Mpumalanga,2027-01-01,2027,1,Q1 2027,37.8,43.44,32.17,True,Optimistic
+Mpumalanga,2027-01-01,2027,1,Q1 2027,38.19,48.66,27.72,True,Pessimistic
+Mpumalanga,2027-04-01,2027,2,Q2 2027,38.15,46.23,30.07,True,Baseline
+Mpumalanga,2027-04-01,2027,2,Q2 2027,37.96,43.61,32.3,True,Optimistic
+Mpumalanga,2027-04-01,2027,2,Q2 2027,38.44,48.94,27.94,True,Pessimistic
+Mpumalanga,2027-07-01,2027,3,Q3 2027,38.34,46.45,30.24,True,Baseline
+Mpumalanga,2027-07-01,2027,3,Q3 2027,38.11,43.78,32.44,True,Optimistic
+Mpumalanga,2027-07-01,2027,3,Q3 2027,38.69,49.22,28.15,True,Pessimistic
+Mpumalanga,2027-10-01,2027,4,Q4 2027,38.53,46.66,30.4,True,Baseline
+Mpumalanga,2027-10-01,2027,4,Q4 2027,38.26,43.96,32.57,True,Optimistic
+Mpumalanga,2027-10-01,2027,4,Q4 2027,38.94,49.51,28.37,True,Pessimistic
+Mpumalanga,2028-01-01,2028,1,Q1 2028,38.73,46.89,30.57,True,Baseline
+Mpumalanga,2028-01-01,2028,1,Q1 2028,38.42,44.13,32.71,True,Optimistic
+Mpumalanga,2028-01-01,2028,1,Q1 2028,39.19,49.8,28.58,True,Pessimistic
+Limpopo,2026-04-01,2026,2,Q2 2026,35.28,42.1,28.46,True,Baseline
+Limpopo,2026-04-01,2026,2,Q2 2026,35.2,39.97,30.42,True,Optimistic
+Limpopo,2026-04-01,2026,2,Q2 2026,35.4,44.27,26.53,True,Pessimistic
+Limpopo,2026-07-01,2026,3,Q3 2026,35.68,42.52,28.84,True,Baseline
+Limpopo,2026-07-01,2026,3,Q3 2026,35.52,40.31,30.73,True,Optimistic
+Limpopo,2026-07-01,2026,3,Q3 2026,35.92,44.82,27.03,True,Pessimistic
+Limpopo,2026-10-01,2026,4,Q4 2026,36.08,42.94,29.22,True,Baseline
+Limpopo,2026-10-01,2026,4,Q4 2026,35.84,40.64,31.04,True,Optimistic
+Limpopo,2026-10-01,2026,4,Q4 2026,36.45,45.36,27.53,True,Pessimistic
+Limpopo,2027-01-01,2027,1,Q1 2027,36.49,43.37,29.6,True,Baseline
+Limpopo,2027-01-01,2027,1,Q1 2027,36.16,40.98,31.35,True,Optimistic
+Limpopo,2027-01-01,2027,1,Q1 2027,36.97,45.91,28.02,True,Pessimistic
+Limpopo,2027-04-01,2027,2,Q2 2027,36.89,43.79,29.99,True,Baseline
+Limpopo,2027-04-01,2027,2,Q2 2027,36.49,41.32,31.65,True,Optimistic
+Limpopo,2027-04-01,2027,2,Q2 2027,37.49,46.47,28.52,True,Pessimistic
+Limpopo,2027-07-01,2027,3,Q3 2027,37.29,44.22,30.37,True,Baseline
+Limpopo,2027-07-01,2027,3,Q3 2027,36.81,41.66,31.96,True,Optimistic
+Limpopo,2027-07-01,2027,3,Q3 2027,38.01,47.02,29.01,True,Pessimistic
+Limpopo,2027-10-01,2027,4,Q4 2027,37.69,44.64,30.75,True,Baseline
+Limpopo,2027-10-01,2027,4,Q4 2027,37.13,41.99,32.27,True,Optimistic
+Limpopo,2027-10-01,2027,4,Q4 2027,38.54,47.57,29.51,True,Pessimistic
+Limpopo,2028-01-01,2028,1,Q1 2028,38.1,45.07,31.12,True,Baseline
+Limpopo,2028-01-01,2028,1,Q1 2028,37.45,42.33,32.57,True,Optimistic
+Limpopo,2028-01-01,2028,1,Q1 2028,39.06,48.12,30.0,True,Pessimistic
