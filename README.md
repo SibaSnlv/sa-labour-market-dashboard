@@ -189,6 +189,15 @@ to point to your local `clean_data/` folder. Click **Close & Apply**.
 
 ## About This Project
 
+The inspiration for this project was the ongoing dialogue about there not being
+any jobs in SA. During my research, I began asking more questions as I saw the
+data. From, wondering how the different industries stack up against each other.
+
+Then, looking at the youth unemployment as it is a major point of concern for
+me as a final-year student. Through, building the dashboard I was sharing it with
+a friend and they asked about the gender gap. As such, I updated the python script
+to get the right data for this category.
+
 I built this as a portfolio project to demonstrate my end-to-end data analytics
 capability, from sourcing and cleaning real government data to building
 a professional BI product that tells a coherent analytical story.
@@ -197,3 +206,7 @@ The combination of Economics domain knowledge (BCom Economics and
 Management Sciences, University of Pretoria) and technical implementation
 (Python pipeline, Power BI data modelling, DAX, statistical projection)
 reflects the hybrid profile this project was designed to demonstrate.
+
+This would be useful for prospective students when considering degree choices
+to identify the most employable industries. Also, for employers looking at
+potential growth for the nature of available labour.
